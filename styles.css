@@ -11,7 +11,7 @@ body {
 }
 
 .container{
-    width: 100vw;
+    width: 100%;
 }
 
 
@@ -24,20 +24,24 @@ h1{
     text-align : center;
     padding-bottom : 3rem;
     padding-top : 1rem;
+    width: 100%;
     
 }
 
 h2 {
     padding-bottom: 3rem;
     padding-top : 3rem;
+    
 }
 
 h4{
     padding-bottom : 3rem;
+    width: 100%;
 }
 
 h5 {
     padding-bottom: 1rem;
+    width: 100%;
 }
 
 
